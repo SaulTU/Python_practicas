@@ -1,8 +1,11 @@
-print(2+2)
-print(150-75)
-print(10*10)
-print(75/9)
+num1 = 10
+num2 = 5
+suma= num1+num2
+print(suma)
+print(num1-num2)
+print(num1*num2)
+print(num1/num2)
 
-print(2**3) #exponencial
-print(75//9) #divicion entera
-print(100%100) #residuo
+print(num1**num2) #exponencial
+print(num1//num2) #divicion entera
+print(num1%num2) #residuo
