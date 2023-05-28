@@ -1,5 +1,5 @@
 letra = "u"
-
+#elif
 if letra.lower() == "a":
     print("Esta vocal es la A")
 elif letra.lower() == "e":
